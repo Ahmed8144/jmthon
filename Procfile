@@ -1,1 +1,1 @@
-worker: python3 -m sbb_b
+web: bash start.sh

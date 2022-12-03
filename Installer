@@ -1,5 +1,4 @@
-Telethon==1.25.2
-telethon-session-sqlalchemy
+telethon
 setuptools
 wheel
 aiohttp
